@@ -41,5 +41,5 @@ The dataset contains 5110 real world observations and 10 different attributes:
 ## Dataset
 Dataset can be downloaded from the [Kaggle stroke dataset](https://www.kaggle.com/asaumya/healthcare-problem-prediction-stroke-patients)
 
-
+### The model is giving accuracy of 100%
 
