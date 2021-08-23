@@ -1,6 +1,4 @@
-<div align="center">
-  <h1 align="center"> " Stroke Prediction " </h1>
-</div>
+<h1 align="center"> Stroke Prediction and Analysis with Machine Learning </h1>
 
 <p align="center">
     <img width="50%" src="https://user-images.githubusercontent.com/75872316/130348189-c283a8ac-4d84-4fcb-ae06-974e9b5fa617.png">
@@ -11,6 +9,18 @@ According to the **World Health Organization (WHO)** stroke is the 2nd leading c
 This project describes step-by-step procedures for building a **Machine Learning (ML) Model for Stroke Prediction** and for analysing which features are most useful for the prediction.
 
 </br>
+
+This project describes step-by-step procedure for building a machine learning (ML) model for stroke prediction and for analysing which features are most useful for the prediction.
+
+## Dependencies
+- Python (v3.7)
+- Pandas (v1.0.3)
+- Numpy (v1.18.1)
+- Matplotlib (v3.2.1)
+- Scikit-Learn (v0.22.1)
+- Imbalanced-Learn (v0.6.2)
+- LightGBM (v2.3.1)
+- XGBoost (v1.0.2)
 
 ### => About Dataset
 
@@ -30,15 +40,5 @@ The dataset contains 5110 real world observations and 10 different attributes:
 - `smoking_status` : "formerly smoked", "never smoked", "smokes" or "Unknown"
 - `stroke` : 1 if the patient had a stroke or 0 if not
 
-</br>
-
-### => Working of System
-
-- **SVM**: Support Vector Machine
-- **Input**: Dataset can be consider as input
-- **Output**: Classification into 0 (no stroke) or 1 (stroke)
-
-</br>
-
 ## => Dataset
-Refer dataset to download from [here](https://www.kaggle.com/asaumya/healthcare-problem-prediction-stroke-patients).
+Dataset can be downloaded from the [Kaggle stroke dataset](https://www.kaggle.com/asaumya/healthcare-problem-prediction-stroke-patients)
