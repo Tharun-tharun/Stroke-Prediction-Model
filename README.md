@@ -20,7 +20,7 @@ This project describes step-by-step procedure for building a machine learning (M
 - LightGBM (v2.3.1)
 - XGBoost (v1.0.2)
 
-### About Dataset
+## About Dataset
 
 The dataset contains 5110 real world observations and 10 different attributes:
 - `gender` : "Male", "Female" or "Other"
