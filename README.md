@@ -20,7 +20,7 @@ This project describes step-by-step procedure for building a machine learning (M
 - LightGBM (v2.3.1)
 - XGBoost (v1.0.2)
 
-### => About Dataset
+### About Dataset
 
 The dataset contains 5110 real world observations and 10 different attributes:
 - `gender` : "Male", "Female" or "Other"
@@ -38,7 +38,7 @@ The dataset contains 5110 real world observations and 10 different attributes:
 - `smoking_status` : "formerly smoked", "never smoked", "smokes" or "Unknown"
 - `stroke` : 1 if the patient had a stroke or 0 if not
 
-## => Dataset
+## Dataset
 Dataset can be downloaded from the [Kaggle stroke dataset](https://www.kaggle.com/asaumya/healthcare-problem-prediction-stroke-patients)
 
 
