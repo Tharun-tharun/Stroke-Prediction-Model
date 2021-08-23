@@ -4,9 +4,7 @@
 
 According to the **World Health Organization (WHO)** stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.This dataset is used to predict whether a patient is likely to get a stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relevant information about the patient.
 
-This project describes step-by-step procedures for building a **Machine Learning (ML) Model for Stroke Prediction** and for analysing which features are most useful for the prediction.
-
-</br>
+The objective is to predict brain stroke from patient's records such as age, bmi score, heart problem, hypertension and smoking practice. The dataset includes 100k patient records. Among the records, 1.5% of them are related to stroke patients and the remaining of them are related to non-stroke patients. Therefore, the data is extremely imbalanced.
 
 This project describes step-by-step procedure for building a machine learning (ML) model for stroke prediction and for analysing which features are most useful for the prediction.
 
