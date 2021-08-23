@@ -1,8 +1,6 @@
 <h1 align="center"> Stroke Prediction and Analysis with Machine Learning </h1>
 
-<p align="center">
-    <img width="50%" src="https://user-images.githubusercontent.com/75872316/130348189-c283a8ac-4d84-4fcb-ae06-974e9b5fa617.png">
-</p>
+![brain](https://user-images.githubusercontent.com/41158838/130395889-5cf2dc2c-060e-4f0c-a11d-4e2e7f1e6936.jpg)
 
 According to the **World Health Organization (WHO)** stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.This dataset is used to predict whether a patient is likely to get a stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relevant information about the patient.
 
@@ -42,3 +40,6 @@ The dataset contains 5110 real world observations and 10 different attributes:
 
 ## => Dataset
 Dataset can be downloaded from the [Kaggle stroke dataset](https://www.kaggle.com/asaumya/healthcare-problem-prediction-stroke-patients)
+
+
+
